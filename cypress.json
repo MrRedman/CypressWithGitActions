@@ -1,0 +1,6 @@
+{
+  "video": true,
+  "screenshotsFolder":"cypress/videos",
+  "projectId": "g26yrw",
+  "baseUrl":"http://www.way2automation.com/angularjs-protractor/webtables/"
+}
